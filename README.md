@@ -61,7 +61,7 @@ The system is organized into five major subsystems:
 
 ## Repository Structure
 
-Each subsystem is maintained in its own repository under the `arm__` naming convention.
+Each subsystem is maintained in its own repository under the `arm_` naming convention.
 
 This modular approach enables independent development, testing, and maintenance while allowing the repositories to function together as a unified robotic system.
 
